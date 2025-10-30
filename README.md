@@ -41,6 +41,6 @@
 
 ###
 
-<p align="left">Aproveitem a página!!</p>
+<p align="left">Aproveite a página!!</p>
 
 ###
